@@ -1937,6 +1937,9 @@ let s:emmet_settings = {
 \        'extends': 'html',
 \        'attribute_name': {'class': 'className'},
 \    },
+\    'coffee': {
+\        'extends': 'jsx',
+\    },
 \    'xslt': {
 \        'extends': 'xsl',
 \    },
